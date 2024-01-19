@@ -1,16 +1,24 @@
-# Topic #
+# Topic 
 
 Tech_salary Analysis
 
-### Project Overview 
+### Table of content
 
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Findings](#findings)
+- [Recommendation](#recommendation)
+
+
+### Project Overview 
+---
 The data analysis  was carried out to provide insight into the Various Salaries of Data Tech experts of differnt categories , across countries from 2020 to 2023
 
 
 ![Dashboard 1 (2)](https://github.com/AluuPhilip/Tech_salary/assets/157082605/c3b8f542-5982-4efc-a93a-d058121594d1)
 
 ### Data Source 
-
+---
 the primar dataset used for this analysis is the data source is from "Kaggle.csv" containing detailed information about the different data space salaries
 
 ### Tools Used 
