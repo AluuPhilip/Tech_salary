@@ -21,7 +21,6 @@ In the initial initial data preparationphase, i pperformed the following tasks
 2. Handling missing values
 3. Data cleaning and formatting
 
-
 ### Exploratory data Analysis (EDA)
 EDA involved exploring the kaggle salary data to answer key questions such as;
 - What are the average salaries of each category ?
