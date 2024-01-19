@@ -1,6 +1,4 @@
-# Topic 
-
-Tech_salary Analysis
+# Tech_salary Analysis
 
 ### Table of content
 
