@@ -17,7 +17,7 @@ The data analysis  was carried out to provide insight into the Various Salaries 
 
 ### Data Source 
 ---
-the primar dataset used for this analysis is the data source is from "Kaggle.csv" containing detailed information about the different data space salaries
+The primary dataset used for this analysis is the data source is from "Kaggle.csv" containing detailed information about the different data space salaries
 
 ### Tools Used 
 ---
